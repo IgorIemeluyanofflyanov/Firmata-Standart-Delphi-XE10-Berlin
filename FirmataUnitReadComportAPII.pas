@@ -1,5 +1,5 @@
 
-// Port to Delphi 10.2 Berlin by Igor Emelyanov (vectorgmbh@gmail.com) 8 aug 2017 from
+// Port to Delphi 10.2 Berlin by Igor Pakemonoff (vectorgmbh@gmail.com) 8 aug 2017 from
 // Firmata GUI-friendly queries test
 // *  Copyright 2010, Paul Stoffregen (paul@pjrc.com)
 // *
